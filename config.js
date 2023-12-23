@@ -1,0 +1,1 @@
+export const mongoDBURL = 'mongodb+srv://Anand:Anand@cluster0.mbsih5y.mongodb.net/'
