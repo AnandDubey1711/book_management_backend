@@ -1,2 +1,7 @@
-buildCommand: npm install
-startCommand: npm start
+services:
+  - name: your-app-name
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    github:
+      branch: main
