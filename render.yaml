@@ -1,5 +1,2 @@
-services:
-  - type: web
-    name: backend
-    buildCommand: npm install
-    startCommand: node backend/index.js
+buildCommand: npm install
+startCommand: npm start
